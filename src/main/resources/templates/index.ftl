@@ -6,5 +6,9 @@
 </head>
 <body>
     ${name}
+
+    <img src="../1.png">
+
+
 </body>
 </html>

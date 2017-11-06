@@ -29,4 +29,9 @@ public class IndexController {
         userService.createJdbcUser();
         return "index";
     }
+
+    @RequestMapping("/login")
+    public String login(){
+        return "login/login";
+    }
 }
