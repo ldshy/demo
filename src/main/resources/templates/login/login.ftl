@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML5 canvas圆形气泡动画背景插件|DEMO_jQuery之家-自由分享jQuery、html5、css3的插件库</title>
+    <title>登录</title>
     <link rel="stylesheet" type="text/css" href="../dest/css/normalize.css" />
     <link rel="stylesheet" href="../dest/css/style.css">
 </head>
@@ -13,7 +13,11 @@
     <header class="header">
         <div class="full-center">
             <div style="width:300px;height:400px;">
-                <div  style="height:80%;margin-top:10%;background:rgba(163, 167, 220, 0.51)"></div>
+                <div  style="height:80%;margin-top:10%;background:rgba(163, 167, 220, 0.51)">
+                    <from>
+                        <div></div>
+                    </from>
+                </div>
             </div>
         </div>
         <!--
