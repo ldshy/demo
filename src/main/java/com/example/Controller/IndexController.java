@@ -10,6 +10,7 @@ import com.example.Service.UserService;
 import java.util.List;
 import java.util.Map;
 
+@RequestMapping("/login")
 @Controller
 public class IndexController {
     @Autowired
