@@ -6,6 +6,10 @@
 </head>
 <body>
     <img src="../1.png">
-    <input type="file" id="upimg" name="upimg"/ >
+    <img src="/login/getimg">
+    <form enctype="multipart/form-data" method="post" action="/up/scwj">
+        图片<input type="file" name="file"/>
+        <input type="submit" value="上传"/>
+    </form>
 </body>
 </html>
