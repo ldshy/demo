@@ -13,4 +13,5 @@ public class UserServiceImpl implements UserService {
     public void createJdbcUser(){
         jdbctemplate.update("INSERT INTO hy_spring(username,userage) VALUE(?,?);","黄宇",24);
     }
+
 }
